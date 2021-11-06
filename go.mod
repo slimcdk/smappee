@@ -1,3 +1,3 @@
-module github.com/thomascrmbz/smappee
+module github.com/slimcdk/smappee
 
 go 1.15
